@@ -1,0 +1,5 @@
+../Src/operations.c:12:6:print_menu	8	static
+../Src/operations.c:19:6:handle_option	16	static
+../Src/operations.c:36:6:start_adc_conversion	24	static
+../Src/operations.c:63:6:trigger_adc_interrupt	8	static
+../Src/operations.c:70:6:exit_program	8	static
